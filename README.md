@@ -1,6 +1,6 @@
 # Content Creation Resources 📚🎥
 
-Welcome to the **Content Creation Resources** repository! This is a curated collection of tools, assets, and guidelines to help streamline content creation for social media, YouTube, and other digital platforms. Whether you're a beginner or an experienced creator, you'll find valuable resources here to enhance your workflow.
+Welcome to the **Content Creation Resources** repository!. Whether you're a beginner or an experienced developer, you'll find valuable resources here to enhance your workflow.
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -8,7 +8,7 @@ Welcome to the **Content Creation Resources** repository! This is a curated coll
 - [License](#license)
 
 ## 🔹 Introduction
-This repository contains the resources used in my videos. Whether it's for designing visuals, editing videos, planning content, or optimizing social media, you'll find everything I use and recommend here! 🎨🎬📆🚀
+This repository contains the resources used in my videos. Whether it's for front-end or back-end development,  you'll find everything I use and recommend here! 🎨🎬📆🚀
 
 
 ## 🤝 Contributing
