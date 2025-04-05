@@ -22,7 +22,7 @@ This repository contains the resources used in my videos. Whether it's for front
 ### 📢 Tech News
 | Episode | Topic | Resource |
 |--------|-------|----------|
-| *(Coming soon)* | — | — |
+| #1 | Lynx Js | [lynxjs.org](lynxjs.org) |
 
 ## 🤝 Contributing
 Contributions are welcome! If you have resources to share, feel free to:
